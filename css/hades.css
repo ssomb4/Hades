@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    background-color: rgb(134 156 202);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+header{
+    background-color: rgb(25, 25, 25);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 3px 10px 3px rgb(25, 25, 25);
+}
+
+header h1{
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: 'New Tegomin', serif;
+}
+
+h1, h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header img {
+    width: 300px;
+    height: 300px;
+    border-radius: 160px;
+    object-fit: cover;
+    border: 10px solid rgb(62, 103, 192);
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+main img{
+    width: 100%;
+
+}
+
+h2{
+    color: rgb(25 25 25);
+    margin-bottom: -10px;
+    margin-top: 30px;
+}
+
+a{
+    color: rgb(25 25 25);
+    text-decoration: underline;
+}
+
+a:hover{
+    color:rgb(62, 103, 192);
+}
+
+footer{
+    margin-top: 20px;
+    background-color: rgb(25, 25, 25);
+    text-align: center;
+    color: whitesmoke;
+    padding: 50px;
+}
+
+.caption{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    margin-top: -10px;
+}
+
+.about{
+    margin-top: 10px;
+}
+
